@@ -10,11 +10,11 @@ The following was written shortly after my arrest...
                           Written on January 8, 1986
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-<h1>\/\The Conscience of a Hacker/\/</h1>
+# \/\The Conscience of a Hacker/\/
 
-<h3>+++The Mentor+++</h3>
+## +++The Mentor+++
  
- > Written on January 8, 1986
+> Written on January 8, 1986
 
   Another one got caught today, it's all over the papers.  "Teenager
 Arrested in Computer Crime Scandal", "Hacker Arrested after Bank Tampering"...
