@@ -12,9 +12,7 @@ The following was written shortly after my arrest...
 
 <h1>\/\The Conscience of a Hacker/\/</h1>
 
-*by
-
- +++The Mentor+++*
+*by +++The Mentor+++*
  
  > Written on January 8, 1986
 
