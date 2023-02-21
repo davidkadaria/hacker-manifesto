@@ -18,10 +18,18 @@ made him tick, what forces shaped him, what may have molded him?<br>
 the other kids, this crap they teach us bores me...<br>
   Damn underachiever.  They're all alike.
 
+მაგრამ თქვენ, თქვენი სამნაწილიანი ფსიქოლოგიითა და 50-იანების ტექნოტვინით, ოდესმე ჩაგიხედავს ჰაკერისთვის თვალებში? ოდესმე გიფიქრიათ რა ამოძრავებს, რა ძალებმა მოახდინეს მისი ფორმირება, რას შეეძლო მისი ჩამოყალიბება?<br>
+მე ვარ ჰაკერი, შემოაბიჯეთ ჩემს სამყაროში...<br>
+ჩემია სამყარო, რომელიც იწყება სკოლით. მე უფრო ჭკვიანი ვარ, ვიდრე ბავშვების უმეტესობა, ნაგავი, რასაც ისინი გვასწავლიან, ჩემთვის მოსაბეზრებელია...<br>
+წყეული ჩამორჩენილი მოწაფე... ყველანი ერთნაირები არიან.
+
   I'm in junior high or high school.  I've listened to teachers explain
 for the fifteenth time how to reduce a fraction.  I understand it.  "No, Ms.
 Smith, I didn't show my work.  I did it in my head..."<br>
   Damn kid.  Probably copied it.  They're all alike.
+
+მე საშუალო ან უფროს კლასში ვარ. მოვუსმინე მასწავლებლებს, რომლებიც მეთხუთმეტედ ხსნიდნენ, როგორ შევკვეცოთ წილადი. გავიგე. „არა, მის სმიტ, ნამუშევარი არ ამისახავს. მე ის ჩემს თავში შევასრულე...“<br>
+წყეული ბავშვი, ალბათ გადაიწერა. ყველანი ერთნაირები არიან.
 
   I made a discovery today.  I found a computer.  Wait a second, this is
 cool.  It does what I want it to.  If it makes a mistake, it's because I
@@ -30,6 +38,12 @@ screwed it up.  Not because it doesn't like me...<br>
   Or thinks I'm a smart ass...<br>
   Or doesn't like teaching and shouldn't be here...<br>
   Damn kid.  All he does is play games.  They're all alike.
+
+დღეს აღმოჩენა გავაკეთე. კომპიუტერი ვიპოვე. მოიცადე, ეს ხომ მაგარია. აკეთებს იმას, რაც მინდა რომ გააკეთოს. თუ შეცდომას უშვებს, მხოლოდ იმიტომ, რომ მე გავაფუჭე რაღაც. იმიტომ კი არა, რომ არ მოვწონვარ...<br>
+ან ჩემგან საფრთხეს გრძნობს...<br>
+ან ფიქრობს, რომ ჭკვიანი ნაბიჭვარი ვარ...<br>
+ან სწავლება არ მოსწონს და აქ არ უნდა იყოს...<br>
+წყეული ბავშვი. მხოლოდ თამაშებს თამაშობს. ყველანი ერთნაირები არიან.
 
   And then it happened... a door opened to a world... rushing through
 the phone line like heroin through an addict's veins, an electronic pulse is
