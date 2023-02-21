@@ -1,6 +1,6 @@
 <h1>\/\The Conscience of a Hacker/\/</h1>
 
-### By <span style="color: red">+++The Mentor+++</span>
+### By <font color="red">+++The Mentor+++</font>
 
 *The following was written shortly after my arrest...*
  
