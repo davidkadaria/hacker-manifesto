@@ -1,10 +1,6 @@
-<h1>\/\The Conscience of a Hacker/\/</h1>
+# The Hacker Manifesto
 
-### By +++The Mentor+++
-
-*The following was written shortly after my arrest...*
- 
-> Written on January 8, 1986
+By **+++The Mentor+++**
 
   Another one got caught today, it's all over the papers.  "Teenager
 Arrested in Computer Crime Scandal", "Hacker Arrested after Bank Tampering"...
