@@ -1,22 +1,8 @@
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-The following was written shortly after my arrest...
-
-                       \/\The Conscience of a Hacker/\/
-
-                                      by
-
-                               +++The Mentor+++
-
-                          Written on January 8, 1986
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
 <h1>\/\The Conscience of a Hacker/\/</h1>
 
+### By +++The Mentor+++
+
 *The following was written shortly after my arrest...*
-
-by
-
-### +++The Mentor+++
  
 > Written on January 8, 1986
 
