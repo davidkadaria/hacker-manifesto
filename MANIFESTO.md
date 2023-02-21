@@ -7,6 +7,9 @@
 Arrested in Computer Crime Scandal", "Hacker Arrested after Bank Tampering"...<br>
   Damn kids.  They're all alike.
 
+დღესკიდევ ერთი დაიჭირეს, ყველაფერი გაზეთებშია. „მოზარდი კომპიუტერული დანაშაულისთვის დააკავეს“, „ჰაკერი ბანკის სისტემაში უნებართვოდ შეჭრისთვის დააკავეს“...<br>
+წყეული ბავშვები... ყველანი ერთნაირები არიან.
+
   But did you, in your three-piece psychology and 1950's technobrain,
 ever take a look behind the eyes of the hacker?  Did you ever wonder what
 made him tick, what forces shaped him, what may have molded him?<br>
