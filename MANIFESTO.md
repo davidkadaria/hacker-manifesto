@@ -1,6 +1,6 @@
 # The Hacker Manifesto
 
-By **+++The Mentor+++**
+*By **+++The Mentor+++***
 
   Another one got caught today, it's all over the papers.  "Teenager
 Arrested in Computer Crime Scandal", "Hacker Arrested after Bank Tampering"...
