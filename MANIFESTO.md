@@ -4,8 +4,7 @@
 *+++The Mentor+++*
 
   Another one got caught today, it's all over the papers.  "Teenager
-Arrested in Computer Crime Scandal", "Hacker Arrested after Bank Tampering"...
-
+Arrested in Computer Crime Scandal", "Hacker Arrested after Bank Tampering"...<br>
   Damn kids.  They're all alike.
 
   But did you, in your three-piece psychology and 1950's technobrain,
