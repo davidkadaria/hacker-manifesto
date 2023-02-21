@@ -9,33 +9,33 @@ Arrested in Computer Crime Scandal", "Hacker Arrested after Bank Tampering"...<b
 
   But did you, in your three-piece psychology and 1950's technobrain,
 ever take a look behind the eyes of the hacker?  Did you ever wonder what
-made him tick, what forces shaped him, what may have molded him?
-        I am a hacker, enter my world...
-        Mine is a world that begins with school... I'm smarter than most of
-the other kids, this crap they teach us bores me...
-        Damn underachiever.  They're all alike.
+made him tick, what forces shaped him, what may have molded him?<br>
+  I am a hacker, enter my world...<br>
+  Mine is a world that begins with school... I'm smarter than most of
+the other kids, this crap they teach us bores me...<br>
+  Damn underachiever.  They're all alike.
 
   I'm in junior high or high school.  I've listened to teachers explain
 for the fifteenth time how to reduce a fraction.  I understand it.  "No, Ms.
-Smith, I didn't show my work.  I did it in my head..."
-        Damn kid.  Probably copied it.  They're all alike.
+Smith, I didn't show my work.  I did it in my head..."<br>
+  Damn kid.  Probably copied it.  They're all alike.
 
   I made a discovery today.  I found a computer.  Wait a second, this is
 cool.  It does what I want it to.  If it makes a mistake, it's because I
-screwed it up.  Not because it doesn't like me...
-                Or feels threatened by me...
-                Or thinks I'm a smart ass...
-                Or doesn't like teaching and shouldn't be here...
-        Damn kid.  All he does is play games.  They're all alike.
+screwed it up.  Not because it doesn't like me...<br>
+  Or feels threatened by me...<br>
+  Or thinks I'm a smart ass...<br>
+  Or doesn't like teaching and shouldn't be here...<br>
+  Damn kid.  All he does is play games.  They're all alike.
 
   And then it happened... a door opened to a world... rushing through
 the phone line like heroin through an addict's veins, an electronic pulse is
 sent out, a refuge from the day-to-day incompetencies is sought... a board is
-found.
-        "This is it... this is where I belong..."
-        I know everyone here... even if I've never met them, never talked to
-them, may never hear from them again... I know you all...
-        Damn kid.  Tying up the phone line again.  They're all alike...
+found.<br>
+  "This is it... this is where I belong..."<br>
+  I know everyone here... even if I've never met them, never talked to
+them, may never hear from them again... I know you all...<br>
+  Damn kid.  Tying up the phone line again.  They're all alike...
 
   You bet your ass we're all alike... we've been spoon-fed baby food at
 school when we hungered for steak... the bits of meat that you did let slip
