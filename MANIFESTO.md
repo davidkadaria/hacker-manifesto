@@ -8,7 +8,7 @@ Arrested in Computer Crime Scandal", "Hacker Arrested after Bank Tampering"...<b
   Damn kids.  They're all alike.
 
 დღეს კიდევ ერთი დაიჭირეს, ყველაფერი გაზეთებშია. „მოზარდი კომპიუტერული დანაშაულისთვის დააკავეს“, „ჰაკერი საბანკო სისტემაში უნებართვოდ შეღწევისთვის დააკავეს“...<br>
-წყეული ბავშვები... ყველანი ერთნაირები არიან.
+წყეული ბავშვები. ყველანი ერთნაირები არიან.
 
   But did you, in your three-piece psychology and 1950's technobrain,
 ever take a look behind the eyes of the hacker?  Did you ever wonder what
@@ -20,8 +20,8 @@ the other kids, this crap they teach us bores me...<br>
 
 მაგრამ თქვენ, თქვენი სამნაწილიანი ფსიქოლოგიითა და 50-იანების ტექნოტვინით, ოდესმე ჩაგიხედავს ჰაკერისთვის თვალებში? ოდესმე გიფიქრიათ რა ამოძრავებს, რა ძალებმა მოახდინეს მისი ფორმირება, რას შეეძლო მისი ჩამოყალიბება?<br>
 მე ვარ ჰაკერი, შემოაბიჯეთ ჩემს სამყაროში...<br>
-ჩემია სამყარო, რომელიც იწყება სკოლით. მე უფრო ჭკვიანი ვარ, ვიდრე ბავშვების უმეტესობა, ნაგავი, რასაც ისინი გვასწავლიან, ჩემთვის მოსაბეზრებელია...<br>
-წყეული ჩამორჩენილი მოწაფე... ყველანი ერთნაირები არიან.
+ჩემია სამყარო, რომელიც იწყება სკოლით. მე უფრო ჭკვიანი ვარ, ვიდრე ბავშვების უმეტესობა; ნაგავი, რომელსაც ისინი გვასწავლიან, ჩემთვის მოსაბეზრებელია...<br>
+წყეული ჩამორჩენილი მოწაფე. ყველანი ერთნაირები არიან.
 
   I'm in junior high or high school.  I've listened to teachers explain
 for the fifteenth time how to reduce a fraction.  I understand it.  "No, Ms.
@@ -29,7 +29,7 @@ Smith, I didn't show my work.  I did it in my head..."<br>
   Damn kid.  Probably copied it.  They're all alike.
 
 მე საშუალო ან უფროს კლასში ვარ. მოვუსმინე მასწავლებლებს, რომლებიც მეთხუთმეტედ ხსნიდნენ, როგორ შევკვეცოთ წილადი. გავიგე. „არა, მის სმიტ, ნამუშევარი არ ამისახავს. მე ის ჩემს თავში შევასრულე...“<br>
-წყეული ბავშვი, ალბათ გადაიწერა. ყველანი ერთნაირები არიან.
+წყეული ბავშვი. ალბათ გადაიწერა. ყველანი ერთნაირები არიან.
 
   I made a discovery today.  I found a computer.  Wait a second, this is
 cool.  It does what I want it to.  If it makes a mistake, it's because I
@@ -39,7 +39,7 @@ screwed it up.  Not because it doesn't like me...<br>
   Or doesn't like teaching and shouldn't be here...<br>
   Damn kid.  All he does is play games.  They're all alike.
 
-დღეს აღმოჩენა გავაკეთე. კომპიუტერი ვიპოვე. მოიცადე, ეს ხომ მაგარია. აკეთებს იმას, რაც მინდა რომ გააკეთოს. თუ შეცდომას უშვებს, მხოლოდ იმიტომ, რომ მე გავაფუჭე რაღაც. იმიტომ კი არა, რომ არ მოვწონვარ...<br>
+დღეს აღმოჩენა გავაკეთე. კომპიუტერი ვიპოვე. მოიცადე, ეს ხომ მაგარია. აკეთებს იმას, რაც მინდა რომ გააკეთოს. თუ შეცდომას უშვებს, მხოლოდ იმიტომ, რომ მე გავაფუჭე რაღაც. და არა იმიტომ, რომ არ მოვწონვარ...<br>
 ან ჩემგან საფრთხეს გრძნობს...<br>
 ან ფიქრობს, რომ ჭკვიანი ნაბიჭვარი ვარ...<br>
 ან სწავლება არ მოსწონს და აქ არ უნდა იყოს...<br>
@@ -53,6 +53,8 @@ found.<br>
   I know everyone here... even if I've never met them, never talked to
 them, may never hear from them again... I know you all...<br>
   Damn kid.  Tying up the phone line again.  They're all alike...
+
+და შემდეგ ეს მოხდა... სამყაროში შესასვლელი კარი გაიღო... 
 
   You bet your ass we're all alike... we've been spoon-fed baby food at
 school when we hungered for steak... the bits of meat that you did let slip
