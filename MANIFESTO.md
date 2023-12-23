@@ -54,13 +54,17 @@ found.<br>
 them, may never hear from them again... I know you all...<br>
   Damn kid.  Tying up the phone line again.  They're all alike...
 
-და შემდეგ ეს მოხდა... სამყაროში შესასვლელი კარი გაიღო... 
+და შემდეგ ეს მოხდა... სამყაროში შესასვლელი კარი გაიღო... მძაფრი ნაკადი სატელეფონო ხაზის გავლით, როგორც ჰეროინი ნარკომანის ვენების გავლით, ელექტრონული იმპულსი გაგზავნილია, თავშესაფარი ყოველდღიური უუნარობისგან ნაპოვნია... კომუნიკაციის გზა ნაპოვნია.<br>
+  "ეს ის არის... ეს არის ადგილი, რომელსაც ვეკუთვნი..."<br>
+  აქ მე ყველას ვიცნობ... იმ შემთხვევაშიც კი, თუ მათ არასოდეს შევხვედრივარ, მათთან არასოდეს მისაუბრია, მათგან შეიძლება აღარაფერი შევიტყო მომავალში... მე თქვენ ყველას გიცნობთ...<br>
+  წყეული ბავშვი. ისევ აფერხებს სატელეფონო ხაზს. ყველანი ერთნაირები არიან...
 
   You bet your ass we're all alike... we've been spoon-fed baby food at
 school when we hungered for steak... the bits of meat that you did let slip
 through were pre-chewed and tasteless.  We've been dominated by sadists, or
 ignored by the apathetic.  The few that had something to teach found us will-
 ing pupils, but those few are like drops of water in the desert.
+  ეჭვიც ნუ შეგეპარებათ, ჩვენ ყველანი ერთნაირები ვართ... სკოლაში კოვზით გვაჭმევდნენ საბავშვო საკვებს, როდესაც სტეიკს ვიყავით მოშივებული... ხორცის ნაჭრები, რომლებიც თქვენ ჩაყლაპეთ უკვე დაღეჭილი და უგემური იყო. ჩვენ ან სადისტების ბატონობის ქვეშ ვიყავით, ანდა გულგრილთა მიერ ვიყავით უგულებელყოფილნი. რამდენიმე მათგანი, ვისაც რაღაცის სწავლება მართლა შეეძლო, ჩვენში მონდომებულ მოსწავლეებს ხედავდა, მაგრამ ასეთები ცოტანი არიან, როგორც წყლის წვეთები უდაბნოში.
 
   This is our world now... the world of the electron and the switch, the
 beauty of the baud.  We make use of a service already existing without paying
@@ -70,11 +74,14 @@ after knowledge... and you call us criminals.  We exist without skin color,
 without nationality, without religious bias... and you call us criminals.
 You build atomic bombs, you wage wars, you murder, cheat, and lie to us
 and try to make us believe it's for our own good, yet we're the criminals.
+  ჩვენი სამყარო ახლა ასეთია... ელექტრონებისა და ელექტრული გადამრთველების სამყარო, ბოდის მშვენიერება. ჩვენ ვიყენებთ არსებულ სერვისს და არ ვიხდით ფულს იმაში, რაც შეიძლებოდა წარმოუდგენლად იაფი ყოფილიყო, გაუმაძღრების მიერ რომ არ იყოს მართული, და თქვენ კრიმინალებს გვიწოდებთ. ჩვენ ვიკვლევთ... და თქვენ კრიმინალებს გვიწოდებთ. ჩვენ ვესწრაფვით ცოდნას... და თქვენ კრიმინალებს გვიწოდებთ. ჩვენს რაობას არ განვსაზღვრავთ კანის ფერით, ეროვნებით, რელიგიური მისწრაფებებით... და თქვენ კრიმინალებს გვიწოდებთ. თქვენ ქმნით ატომურ ბომბებს, თქვენ აწარმოებთ ომებს, თქვენ კლავთ, თვალს გვიხხვევთ და მოტყუების გზით ცდილობთ დაგვაჯეროთ, რომ ამ ყოველივეს ჩვენივე კეთილდღეობისთვის აკეთებთ, მიუხედავად ამისა კრიმინალებად მაინც ჩვენ ვითვლებით.
 
   Yes, I am a criminal.  My crime is that of curiosity.  My crime is
 that of judging people by what they say and think, not what they look like.
 My crime is that of outsmarting you, something that you will never forgive me
 for.
+  დიახ, მე ვარ კრიმინალი. ჩემი დანაშაული არის ცნობისმოყვარეობა. ჩემი დანაშაული არის ის, რომ ადამიანებს განვსჯი იმის მიხედვით, თუ რას ამბობენ და ფიქრობენ, და არა იმის მიხედვით, როგორ გამოიყურებიან. ჩემი დანაშაულია ის, რომ თქვენზე ჭკვიანი ვარ, რასაც თქვენ ვერასოდეს მაპატიებთ.
 
   I am a hacker, and this is my manifesto.  You may stop this individual,
 but you can't stop us all... after all, we're all alike.
+  მე ვარ ჰაკერი და ეს არის ჩემი მანიფესტო. თქვენ შეგიძლიათ შემაჩეროთ მე, მაგრამ ვერ შეძლებთ ყველა ჩვენთაგანის შეჩერებას... ბოლოს და ბოლოს, ჩვენ ხომ ყველანი ერთნაირები ვართ.
