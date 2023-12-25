@@ -1,0 +1,14 @@
+{
+  "name": "hacker-manifesto",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">ჰაკერის მანიფესტი</h1>",
+  "main": "compile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "marked": "^11.1.0"
+  }
+}
