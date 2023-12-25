@@ -1,6 +1,6 @@
 <h1 align="center">ჰაკერის მანიფესტი</h1>
 
-<h2 align="center">შინაარსი</h2>
+<h2 align="center">სარჩევი</h2>
 
 <div align="center">
     <a href="#preface">წინასიტყვაობა</a><br>
