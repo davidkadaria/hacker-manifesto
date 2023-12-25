@@ -4,7 +4,7 @@
   "description": "<h1 align=\"center\">ჰაკერის მანიფესტი</h1>",
   "main": "compile.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
     "build": "node compile.js"
   },
   "author": "",
