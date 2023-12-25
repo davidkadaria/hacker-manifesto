@@ -2,10 +2,11 @@
 
 <h2 align="center">შინაარსი</h2>
 
-<ul align="center">
-    <li>[წინასიტყვაობა](#preface)</li>
+<div align="center">
+    <a href="#preface">წინასიტყვაობა</a>
+    <a href="#hacker-manifesto">ჰაკერის მანიფესტი</a>
     <li>[ჰაკერის მანიფესტი](#hacker-manifesto)</li>
-</ul>
+</div>
 
 <a name="preface"></a>
 <h2 align="center">წინასიტყვაობა</h2>
