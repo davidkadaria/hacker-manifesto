@@ -3,9 +3,8 @@
 <h2 align="center">შინაარსი</h2>
 
 <div align="center">
-    <a href="#preface">წინასიტყვაობა</a>
+    <a href="#preface">წინასიტყვაობა</a><br>
     <a href="#hacker-manifesto">ჰაკერის მანიფესტი</a>
-    <li>[ჰაკერის მანიფესტი](#hacker-manifesto)</li>
 </div>
 
 <a name="preface"></a>
