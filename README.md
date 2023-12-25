@@ -1,5 +1,6 @@
 <h1 align="center">ჰაკერის მანიფესტი</h1>
 
+<a name="table-of-contents"></a>
 <h2 align="center">სარჩევი</h2>
 
 <div align="center">
