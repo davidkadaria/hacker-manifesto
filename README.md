@@ -1,1 +1,1 @@
-# The Hacker Manifesto (Georgian 🇬🇪 Translation)
+# The Hacker Manifesto (Georgian Translation)
